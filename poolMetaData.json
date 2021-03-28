@@ -1,0 +1,6 @@
+{
+name: "GHOST_STAKEPOOL",
+description: "My pool description",
+ticker: "TEST",
+homepage: "https://myadapoolnamerocks.com"
+}
